@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a practice assignment I am completing for the Odin Project. I am using everything I have learned from the chapter on HTML to build a website that links pages I have made and makes use of heading elements, image elements, paragraph elements, unordered and ordered list element, et cetera.
