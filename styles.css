@@ -1,0 +1,27 @@
+.page{
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.page #recipes{
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.page .choco{
+    font-size: 28;
+}
+
+.page .eggs{
+   font-size: 28;
+}
+
+.page .cabbabe{
+    font-size: 28;
+}
+
+ul {
+    list-style-type: none; /* This removes the bullets from the list. */
+    line-height: 1.7em; /* This creates space between lines. */
+}
